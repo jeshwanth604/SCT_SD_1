@@ -22,13 +22,13 @@ A simple web application that converts temperatures between Celsius, Fahrenheit,
 4. Select the source and target units.
 5. Click the Convert button.
 
-## Screenshots
-
 
 ### Conversion Result
-![Result](screenshots/Screenshot%201.png)
+## Screenshots
 
-![Result](screenshots/Screenshot%202.png)
+![Result](screenshots/conversion1.png)
+
+![Result](screenshots/conversion2.png)
 
 ## Author
 Jeshwanth Ande
