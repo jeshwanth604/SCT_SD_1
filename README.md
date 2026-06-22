@@ -26,7 +26,8 @@ A simple web application that converts temperatures between Celsius, Fahrenheit,
 
 
 ### Conversion Result
-![Result](screenshots/conversion.png)
+![Result](screenshots/screenshot 1.png)
+![Result](screenshots/screenshot 2.png)
 
 ## Author
 Jeshwanth Ande
